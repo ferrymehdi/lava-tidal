@@ -1,7 +1,7 @@
 # LavaTidal
 
 A Plugin for [Lavalink*](https://github.com/lavalink-devs/Lavalink) with support Tidal music streaming platform.
-* [Tidal*](https://listen.tidal.com) playlists/albums/tracks/mixes/artists/search
+* Thanks to [topi314](https://github.com/topi314) cause this plugin based on [Lavasrc](https://github.com/topi314/LavaSrc).
 
 ## Lavalink Usage
 
@@ -12,7 +12,7 @@ To install this plugin either download the latest release and place it into your
 > **Note**
 > For a full `application.yml` example see [here](https://github.com/16Hackley/lava-tidal/blob/main/application.yml.example)
 
-To get your Tidal api token go [here](https://github.com/0xVasconcelos/TidalAPI/blob/master/README.md#obtain-the-tidal-token-needed-to-use-this-api), Yes, you need subscribe to trial subscription (maybe there are other ways) or you can use this token for a test: `gsFXkJqGrUNoYMQPZe4k3WKwijnrp8iGSwn3bApe` (I do not guarantee that it will work in the future)
+To get your Tidal api token go [here](https://github.com/0xVasconcelos/TidalAPI/blob/master/README.md#obtain-the-tidal-token-needed-to-use-this-api)
 
 If you want use Deezer ISRC provider, you need to have installed [LavaSrc](https://github.com/topi314/LavaSrc) and fill your Deezer master decryption key
 
